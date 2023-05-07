@@ -1,5 +1,5 @@
 # VHDL-Digital-Combination-Lock
-Video: https://www.bilibili.com/video/BV1Tm4y1h7f2/
+Video: https://www.bilibili.com/video/BV1Tm4y1h7f2/  
 This is a multi-functional clock design based on VHDL.  
 It is developed on the NEXYS A7-T100 development board.  
 It has a built-in four-digit password with two modes (BTNU, BTNC) to choose from, with BTNR designed as the confirmation key.   
